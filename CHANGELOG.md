@@ -1,5 +1,9 @@
 # Change log
 
+## [Version 4.1.7](https://github.com/efremidze/VisualEffectView/releases/tag/4.1.5)
+
+- Support tvOS 14 and fix issue
+
 ## [Version 4.1.6](https://github.com/efremidze/VisualEffectView/releases/tag/4.1.5)
 
 - Support tvOS

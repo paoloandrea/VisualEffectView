@@ -8,7 +8,7 @@
 
 import SwiftUI
 
-@available(iOS 14, tvOS 13.0, *)
+@available(iOS 14, tvOS 14.0, *)
 public struct VisualEffect: UIViewRepresentable {
     let colorTint: Color?
     let colorTintAlpha: CGFloat
@@ -46,7 +46,7 @@ public struct VisualEffect: UIViewRepresentable {
     }
 }
 
-@available(iOS 14, tvOS 13.0, *)
+@available(iOS 14, tvOS 14.0, *)
 struct VisualEffect_Previews: PreviewProvider {
     static var previews: some View {
         ZStack {
@@ -60,7 +60,7 @@ struct VisualEffect_Previews: PreviewProvider {
     }
 }
 
-@available(iOS 14, tvOS 13.0, *)
+@available(iOS 14, tvOS 14.0, *)
 private extension Color {
     func uiColor() -> UIColor {
         return UIColor(self)
