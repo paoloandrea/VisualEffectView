@@ -7,7 +7,7 @@
 
 import UIKit
 
-@available(iOS 14, tvOS 13.0, *)
+@available(iOS 14, tvOS 14.0, *)
 extension UIVisualEffectView {
     var ios14_blurRadius: CGFloat {
         get {
