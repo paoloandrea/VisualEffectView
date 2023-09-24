@@ -1,5 +1,9 @@
 # Change log
 
+## [Version 4.1.6](https://github.com/efremidze/VisualEffectView/releases/tag/4.1.5)
+
+- Support tvOS
+
 ## [Version 4.1.5](https://github.com/efremidze/VisualEffectView/releases/tag/4.1.5)
 
 - Support SwiftUI (#37)
